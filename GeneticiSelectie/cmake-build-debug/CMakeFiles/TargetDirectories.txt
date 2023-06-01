@@ -1,0 +1,3 @@
+C:/FACULTATE/ANUL II/An II sem 2/AA/Laboratoare/GeneticiSelectie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/FACULTATE/ANUL II/An II sem 2/AA/Laboratoare/GeneticiSelectie/cmake-build-debug/CMakeFiles/GeneticiSelectie.dir
+C:/FACULTATE/ANUL II/An II sem 2/AA/Laboratoare/GeneticiSelectie/cmake-build-debug/CMakeFiles/edit_cache.dir

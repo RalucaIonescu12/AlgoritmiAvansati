@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GeneticiMaximFunctie",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GeneticiMaximFunctie::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeneticiMaximFunctie-Debug-339c8a9e52b534dc1b92.json",
+					"name" : "GeneticiMaximFunctie",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/FACULTATE/ANUL II/An II sem 2/AA/Laboratoare/GeneticiMaximFunctie/cmake-build-debug",
+		"source" : "C:/FACULTATE/ANUL II/An II sem 2/AA/Laboratoare/GeneticiMaximFunctie"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

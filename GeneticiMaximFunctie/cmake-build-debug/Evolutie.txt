@@ -1,0 +1,262 @@
+Populatia initiala:
+1: 0110001011110110110111 x= 0.159738 f= 2.13422
+2: 1110010100110010100011 x= 1.68591 f= 0.843622
+3: 1001111010111100000100 x= 0.860172 f= 2.12028
+4: 0101101010111000011010 x= 0.0631292 f= 2.05914
+5: 0101010111111001101111 x= 0.00752592 f= 2.00747
+6: 0000111101110111101000 x= -0.818743 f= 0.510918
+7: 0011000011000100101011 x= -0.428497 f= 1.38789
+8: 0010110000110000101000 x= -0.482149 f= 1.28538
+9: 1010100010110110101110 x= 0.977115 f= 2.02236
+10: 1000111100100000001000 x= 0.677252 f= 2.21858
+11: 0000010001110100111001 x= -0.947774 f= 0.15395
+12: 0011011101110010000111 x= -0.350245 f= 1.52708
+13: 0101000000010000101011 x= -0.0617366 f= 1.93445
+14: 0010110000100011100111 x= -0.482745 f= 1.28421
+15: 1011101101010010010010 x= 1.19517 f= 1.76673
+16: 1000101011010101111111 x= 0.626983 f= 2.23388
+17: 1011111110011111101100 x= 1.24559 f= 1.69409
+18: 1101001101010010101110 x= 1.47644 f= 1.29656
+19: 1111001111011111000110 x= 1.85787 f= 0.406191
+20: 1101111000011000011000 x= 1.60268 f= 1.0341
+
+Probabilitati selectie
+cromozom 1 probabilitate 0.0713283
+cromozom 2 probabilitate 0.0281949
+cromozom 3 probabilitate 0.0708622
+cromozom 4 probabilitate 0.0688191
+cromozom 5 probabilitate 0.067092
+cromozom 6 probabilitate 0.0170755
+cromozom 7 probabilitate 0.0463851
+cromozom 8 probabilitate 0.0429591
+cromozom 9 probabilitate 0.0675898
+cromozom 10 probabilitate 0.0741477
+cromozom 11 probabilitate 0.00514519
+cromozom 12 probabilitate 0.051037
+cromozom 13 probabilitate 0.0646517
+cromozom 14 probabilitate 0.0429199
+cromozom 15 probabilitate 0.0590464
+cromozom 16 probabilitate 0.0746588
+cromozom 17 probabilitate 0.0566186
+cromozom 18 probabilitate 0.0433325
+cromozom 19 probabilitate 0.0135754
+cromozom 20 probabilitate 0.0345608
+Intervale probabilitate selectie
+0 0.0713283 0.0995231 0.170385 0.239204 0.306296 0.323372 0.369757 0.412716 0.480306 0.554454 0.559599 0.610636 0.675287 0.718207 0.777254 0.851913 0.908531 0.951864 0.965439 1 
+u= 0.0753807 selectam cromozomul 2
+u= 0.0592975 selectam cromozomul 1
+u= 0.5374 selectam cromozomul 10
+u= 0.326792 selectam cromozomul 7
+u= 0.247993 selectam cromozomul 5
+u= 0.234931 selectam cromozomul 4
+u= 0.666494 selectam cromozomul 13
+u= 0.762535 selectam cromozomul 15
+u= 0.0988495 selectam cromozomul 2
+u= 0.327311 selectam cromozomul 7
+u= 0.0969573 selectam cromozomul 2
+u= 0.420637 selectam cromozomul 9
+u= 0.0589618 selectam cromozomul 1
+u= 0.294046 selectam cromozomul 5
+u= 0.704337 selectam cromozomul 14
+u= 0.929167 selectam cromozomul 18
+u= 0.981017 selectam cromozomul 20
+u= 0.866634 selectam cromozomul 17
+u= 0.925748 selectam cromozomul 18
+u= 0.582507 selectam cromozomul 12
+
+
+Dupa selectie:
+1: 11100101001100101000111.68591 f= 0.843622
+2: 01100010111101101101110.159738 f= 2.13422
+3: 10001111001000000010000.677252 f= 2.21858
+4: 0011000011000100101011-0.428497 f= 1.38789
+5: 01010101111110011011110.00752592 f= 2.00747
+6: 01011010101110000110100.0631292 f= 2.05914
+7: 0101000000010000101011-0.0617366 f= 1.93445
+8: 10111011010100100100101.19517 f= 1.76673
+9: 11100101001100101000111.68591 f= 0.843622
+10: 0011000011000100101011-0.428497 f= 1.38789
+11: 11100101001100101000111.68591 f= 0.843622
+12: 10101000101101101011100.977115 f= 2.02236
+13: 01100010111101101101110.159738 f= 2.13422
+14: 01010101111110011011110.00752592 f= 2.00747
+15: 0010110000100011100111-0.482745 f= 1.28421
+16: 11010011010100101011101.47644 f= 1.29656
+17: 11011110000110000110001.60268 f= 1.0341
+18: 10111111100111111011001.24559 f= 1.69409
+19: 11010011010100101011101.47644 f= 1.29656
+20: 0011011101110010000111-0.350245 f= 1.52708
+
+Probabilitatea de incrucisare 0.25
+1: 1110010100110010100011 u= 0.792846
+2: 0110001011110110110111 u= 0.273999
+3: 1000111100100000001000 u= 0.66984
+4: 0011000011000100101011 u= 0.881166
+5: 0101010111111001101111 u= 0.636178
+6: 0101101010111000011010 u= 0.0385138 < 0.25 participa
+7: 0101000000010000101011 u= 0.883362
+8: 1011101101010010010010 u= 0.959763
+9: 1110010100110010100011 u= 0.77206
+10: 0011000011000100101011 u= 0.790101
+11: 1110010100110010100011 u= 0.395408
+12: 1010100010110110101110 u= 0.316035
+13: 0110001011110110110111 u= 0.221619 < 0.25 participa
+14: 0101010111111001101111 u= 0.424031
+15: 0010110000100011100111 u= 0.516891
+16: 1101001101010010101110 u= 0.901662
+17: 1101111000011000011000 u= 0.334521
+18: 1011111110011111101100 u= 0.673903
+19: 1101001101010010101110 u= 0.46047
+20: 0011011101110010000111 u= 0.912213
+
+Recombinare intre cromozomul 13 cu cromozomul 6
+0110001011110110110111 0101101010111000011010 punct de rupere 6
+Rezultat 0110001010111000011010 0101101011110110110111
+Dupa recombinare
+1: 1110010100110010100011 x= 1.68591 f= 0.843622
+2: 0110001011110110110111 x= 0.159738 f= 2.13422
+3: 1000111100100000001000 x= 0.677252 f= 2.21858
+4: 0011000011000100101011 x= -0.428497 f= 1.38789
+5: 0101010111111001101111 x= 0.00752592 f= 2.00747
+6: 0101101011110110110111 x= 0.0659881 f= 2.06163
+7: 0101000000010000101011 x= -0.0617366 f= 1.93445
+8: 1011101101010010010010 x= 1.19517 f= 1.76673
+9: 1110010100110010100011 x= 1.68591 f= 0.843622
+10: 0011000011000100101011 x= -0.428497 f= 1.38789
+11: 1110010100110010100011 x= 1.68591 f= 0.843622
+12: 1010100010110110101110 x= 0.977115 f= 2.02236
+13: 0110001010111000011010 x= 0.156879 f= 2.13227
+14: 0101010111111001101111 x= 0.00752592 f= 2.00747
+15: 0010110000100011100111 x= -0.482745 f= 1.28421
+16: 1101001101010010101110 x= 1.47644 f= 1.29656
+17: 1101111000011000011000 x= 1.60268 f= 1.0341
+18: 1011111110011111101100 x= 1.24559 f= 1.69409
+19: 1101001101010010101110 x= 1.47644 f= 1.29656
+20: 0011011101110010000111 x= -0.350245 f= 1.52708
+
+Probabilitate de mutatie pentru fiecare gena 0.01
+Au fost modificati cromozomii: 2 6 8 9 10 12 17 19 
+
+Dupa mutatie
+1: 1110010100110010100011 x= 1.68591 f= 0.843622
+2: 0110001111110110110111 x= 0.171457 f= 2.14206
+3: 1000111100100000001000 x= 0.677252 f= 2.21858
+4: 0011000011000100101011 x= -0.428497 f= 1.38789
+5: 0101010111111001101111 x= 0.00752592 f= 2.00747
+6: 0101101010110110110111 x= 0.0630584 f= 2.05908
+7: 0101000000010000101011 x= -0.0617366 f= 1.93445
+8: 1011101101010010110010 x= 1.1952 f= 1.7667
+9: 1110010110110010100011 x= 1.69177 f= 0.82969
+10: 0011000011000100101001 x= -0.428498 f= 1.38789
+11: 1110010100110010100011 x= 1.68591 f= 0.843622
+12: 1010100010110111101110 x= 0.97716 f= 2.02232
+13: 0110001010111000011010 x= 0.156879 f= 2.13227
+14: 0101010111111001101111 x= 0.00752592 f= 2.00747
+15: 0010110000100011100111 x= -0.482745 f= 1.28421
+16: 1101001101010010101110 x= 1.47644 f= 1.29656
+17: 1101111000011000111000 x= 1.6027 f= 1.03405
+18: 1011111110011111101100 x= 1.24559 f= 1.69409
+19: 1101011101010010101110 x= 1.52332 f= 1.20282
+20: 0011011101110010000111 x= -0.350245 f= 1.52708
+
+Evolutia maximului
+Populatia 1 Valoarea maxima: 2.23388 Media: 1.69279
+Populatia 2 Valoarea maxima: 2.23388 Media: 1.95176
+Populatia 3 Valoarea maxima: 2.23388 Media: 2.0727
+Populatia 4 Valoarea maxima: 2.23422 Media: 2.15013
+Populatia 5 Valoarea maxima: 2.23422 Media: 2.17645
+Populatia 6 Valoarea maxima: 2.23422 Media: 2.1705
+Populatia 7 Valoarea maxima: 2.23895 Media: 2.18272
+Populatia 8 Valoarea maxima: 2.23895 Media: 2.18054
+Populatia 9 Valoarea maxima: 2.23895 Media: 2.18509
+Populatia 10 Valoarea maxima: 2.23895 Media: 2.1859
+Populatia 11 Valoarea maxima: 2.23895 Media: 2.18615
+Populatia 12 Valoarea maxima: 2.23895 Media: 2.18564
+Populatia 13 Valoarea maxima: 2.23895 Media: 2.18631
+Populatia 14 Valoarea maxima: 2.23895 Media: 2.18623
+Populatia 15 Valoarea maxima: 2.23895 Media: 2.18486
+Populatia 16 Valoarea maxima: 2.23895 Media: 2.18726
+Populatia 17 Valoarea maxima: 2.23895 Media: 2.18556
+Populatia 18 Valoarea maxima: 2.23895 Media: 2.18939
+Populatia 19 Valoarea maxima: 2.23895 Media: 2.19278
+Populatia 20 Valoarea maxima: 2.23895 Media: 2.19241
+Populatia 21 Valoarea maxima: 2.23895 Media: 2.19256
+Populatia 22 Valoarea maxima: 2.23895 Media: 2.19459
+Populatia 23 Valoarea maxima: 2.23895 Media: 2.19193
+Populatia 24 Valoarea maxima: 2.23988 Media: 2.19282
+Populatia 25 Valoarea maxima: 2.24102 Media: 2.19465
+Populatia 26 Valoarea maxima: 2.2494 Media: 2.15543
+Populatia 27 Valoarea maxima: 2.2494 Media: 2.20713
+Populatia 28 Valoarea maxima: 2.2494 Media: 2.11809
+Populatia 29 Valoarea maxima: 2.2494 Media: 2.19746
+Populatia 30 Valoarea maxima: 2.2494 Media: 2.24243
+Populatia 31 Valoarea maxima: 2.2494 Media: 2.21971
+Populatia 32 Valoarea maxima: 2.2494 Media: 2.14614
+Populatia 33 Valoarea maxima: 2.2494 Media: 2.13854
+Populatia 34 Valoarea maxima: 2.2494 Media: 2.09612
+Populatia 35 Valoarea maxima: 2.2494 Media: 2.17025
+Populatia 36 Valoarea maxima: 2.2494 Media: 2.17865
+Populatia 37 Valoarea maxima: 2.2494 Media: 2.13749
+Populatia 38 Valoarea maxima: 2.2494 Media: 2.00041
+Populatia 39 Valoarea maxima: 2.2494 Media: 1.93566
+Populatia 40 Valoarea maxima: 2.2494 Media: 2.12029
+Populatia 41 Valoarea maxima: 2.2494 Media: 2.01682
+Populatia 42 Valoarea maxima: 2.24941 Media: 2.19407
+Populatia 43 Valoarea maxima: 2.24941 Media: 2.13804
+Populatia 44 Valoarea maxima: 2.24941 Media: 2.09583
+Populatia 45 Valoarea maxima: 2.24941 Media: 2.14903
+Populatia 46 Valoarea maxima: 2.24941 Media: 2.1445
+Populatia 47 Valoarea maxima: 2.24941 Media: 2.2613
+Populatia 48 Valoarea maxima: 2.24941 Media: 2.27884
+Populatia 49 Valoarea maxima: 2.24941 Media: 2.19485
+Populatia 50 Valoarea maxima: 2.24941 Media: 2.22446
+Populatia 51 Valoarea maxima: 2.24941 Media: 2.28792
+Populatia 52 Valoarea maxima: 2.24941 Media: 2.29258
+Populatia 53 Valoarea maxima: 2.24941 Media: 2.21304
+Populatia 54 Valoarea maxima: 2.24941 Media: 2.29648
+Populatia 55 Valoarea maxima: 2.24944 Media: 2.03329
+Populatia 56 Valoarea maxima: 2.24945 Media: 2.16447
+Populatia 57 Valoarea maxima: 2.24945 Media: 2.2777
+Populatia 58 Valoarea maxima: 2.24945 Media: 2.16219
+Populatia 59 Valoarea maxima: 2.24945 Media: 1.97951
+Populatia 60 Valoarea maxima: 2.24945 Media: 2.20476
+Populatia 61 Valoarea maxima: 2.24945 Media: 2.20549
+Populatia 62 Valoarea maxima: 2.24945 Media: 2.31513
+Populatia 63 Valoarea maxima: 2.24945 Media: 2.1612
+Populatia 64 Valoarea maxima: 2.24945 Media: 2.25418
+Populatia 65 Valoarea maxima: 2.24945 Media: 2.17915
+Populatia 66 Valoarea maxima: 2.24945 Media: 2.21515
+Populatia 67 Valoarea maxima: 2.24945 Media: 2.17654
+Populatia 68 Valoarea maxima: 2.24945 Media: 2.27745
+Populatia 69 Valoarea maxima: 2.25 Media: 2.35174
+Populatia 70 Valoarea maxima: 2.25 Media: 2.24847
+Populatia 71 Valoarea maxima: 2.25 Media: 2.34046
+Populatia 72 Valoarea maxima: 2.25 Media: 2.33833
+Populatia 73 Valoarea maxima: 2.25 Media: 2.32349
+Populatia 74 Valoarea maxima: 2.25 Media: 2.32681
+Populatia 75 Valoarea maxima: 2.25 Media: 2.33156
+Populatia 76 Valoarea maxima: 2.25 Media: 2.32803
+Populatia 77 Valoarea maxima: 2.25 Media: 2.30427
+Populatia 78 Valoarea maxima: 2.25 Media: 2.32153
+Populatia 79 Valoarea maxima: 2.25 Media: 2.32756
+Populatia 80 Valoarea maxima: 2.25 Media: 2.34177
+Populatia 81 Valoarea maxima: 2.25 Media: 2.22382
+Populatia 82 Valoarea maxima: 2.25 Media: 2.34046
+Populatia 83 Valoarea maxima: 2.25 Media: 2.2255
+Populatia 84 Valoarea maxima: 2.25 Media: 2.33923
+Populatia 85 Valoarea maxima: 2.25 Media: 2.33511
+Populatia 86 Valoarea maxima: 2.25 Media: 2.33798
+Populatia 87 Valoarea maxima: 2.25 Media: 2.24438
+Populatia 88 Valoarea maxima: 2.25 Media: 2.34469
+Populatia 89 Valoarea maxima: 2.25 Media: 2.34251
+Populatia 90 Valoarea maxima: 2.25 Media: 2.2173
+Populatia 91 Valoarea maxima: 2.25 Media: 2.29771
+Populatia 92 Valoarea maxima: 2.25 Media: 2.29965
+Populatia 93 Valoarea maxima: 2.25 Media: 2.3008
+Populatia 94 Valoarea maxima: 2.25 Media: 2.27558
+Populatia 95 Valoarea maxima: 2.25 Media: 2.28616
+Populatia 96 Valoarea maxima: 2.25 Media: 2.29976
+Populatia 97 Valoarea maxima: 2.25 Media: 2.26699
+Populatia 98 Valoarea maxima: 2.25 Media: 2.30172
+Populatia 99 Valoarea maxima: 2.25 Media: 2.29303
+Populatia 100 Valoarea maxima: 2.25 Media: 2.31354
